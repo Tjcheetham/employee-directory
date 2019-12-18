@@ -1,3 +1,25 @@
+# Employee Directory
+
+### Description
+As an employer, I want to be able to be able to view my entire employee directory at once so I can have quick access to their information. I created this app for users interested in quickly finding and sorting employee information for ease of readability.
+
+
+### Technologies-Libraries
+React - Node - Express - JavaScript - [JQuery](https://code.jquery.com/jquery-3.3.1.slim.min.js) - [Bootstrap](https://getbootstrap.com/) - CSS - HTML
+
+### Screenshots
+
+![Screenshot1](public/assets/images/2019-12-17.png)
+
+![Screenshot2](public/assets/images/2019-12-17(1).png)
+
+### Link
+Check it out!
+https://github.com/Tjcheetham/budgetTracker/.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
