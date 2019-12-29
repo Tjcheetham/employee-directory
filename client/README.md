@@ -9,13 +9,13 @@ React - Node - Express - JavaScript - [JQuery](https://code.jquery.com/jquery-3.
 
 ### Screenshots
 
-![Screenshot1](public/assets/images/2019-12-17.png)
+![Screenshot1](client/public/assets/images/2019-12-29.png)
 
-![Screenshot2](public/assets/images/2019-12-17(1).png)
+![Screenshot2](client/public/assets/images/2019-12-29(1).png)
 
 ### Link
 Check it out!
-https://github.com/Tjcheetham/budgetTracker/.
+https://tjcheetham.github.io/employee-directory/
 
 
 
